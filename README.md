@@ -5,13 +5,13 @@
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-808080?style=for-the-badge&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/2665431/harshad-ranganathan)](https://stackoverflow.com/users/2665431/harshad-ranganathan)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:rharshad93@gmail.com)](mailto:rharshad93@gmail.com)
 
-### Languages
+### :zero: :one: Languages :zero: :one:
 
 ![Java](https://img.shields.io/badge/-Java-f89820?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-306998?style=flat&logo=java&logoColor=white)
 ![Scala](https://img.shields.io/badge/-Scala-DE3423?style=flat&logo=java&logoColor=white)
 
-### Cloud
+### :cloud: :cloud: Cloud :cloud: :cloud:
 ![AWS](https://img.shields.io/badge/-Aws-ff9900?style=flat&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-008AD7?style=flat&logo=microsoft-azure&logoColor=white)
 ![GCP](https://img.shields.io/badge/-GCP-3cba54?style=flat&logo=google-cloud&logoColor=white)
