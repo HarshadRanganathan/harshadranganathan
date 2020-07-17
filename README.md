@@ -12,8 +12,8 @@
 ### :zero: :one: Languages :zero: :one:
 
 ![Java](https://img.shields.io/badge/-Java-f89820?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-306998?style=flat&logo=java&logoColor=white)
-![Scala](https://img.shields.io/badge/-Scala-DE3423?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-306998?style=flat&logo=python&logoColor=white)
+![Scala](https://img.shields.io/badge/-Scala-DE3423?style=flat&logo=scala&logoColor=white)
 
 ### :cloud: :cloud: Cloud :cloud: :cloud:
 ![AWS](https://img.shields.io/badge/-Aws-ff9900?style=flat&logo=amazon-aws&logoColor=white)
