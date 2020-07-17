@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshadranganathan)](https://www.linkedin.com/in/harshadranganathan)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Harshad_93)](https://twitter.com/Harshad_93)
+[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-808080?style=for-the-badge&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/2665431/harshad-ranganathan)](https://stackoverflow.com/users/2665431/harshad-ranganathan)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:rharshad93@gmail.com)](mailto:rharshad93@gmail.com)
+
+
 <!--
 **HarshadRanganathan/harshadranganathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
