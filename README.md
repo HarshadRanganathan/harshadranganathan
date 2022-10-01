@@ -7,7 +7,7 @@
 
 ### Hi there 👋
 
-- 🌱 I’m currently learning Go, Kubernetes and Data Science
+- 🌱 I’m currently learning Go and Data Science
 
 ### :zero: :one: Languages :zero: :one:
 
